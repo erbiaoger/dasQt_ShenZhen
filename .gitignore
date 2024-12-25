@@ -11,7 +11,7 @@ yolo_label/
 *.npy
 examples/dispersion_data/*
 examples/inversion_par/*
-figs/*
+
 utools/*.mat
 done/*
 logs/*.log
